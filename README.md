@@ -1,6 +1,6 @@
 
 
-git cone https://github.com/anuragkumar671998/heavy_2gb_installer.git && sudo chmod +x heavy_2gb_installer.py && sudo ./heavy_2gb_installer.py start
+git cone https://github.com/anuragkumar671998/heavy_2gb_installer.git && cd heavy_2gb_installer && sudo chmod +x heavy_2gb_installer.py && sudo ./heavy_2gb_installer.py start
 
 
 
