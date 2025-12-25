@@ -1,6 +1,6 @@
 
 
-git cone 
+git cone https://github.com/anuragkumar671998/heavy_2gb_installer.git && sudo chmod +x heavy_2gb_installer.py && sudo ./heavy_2gb_installer.py start
 
 
 
@@ -9,6 +9,8 @@ git cone
 
 
 Key Features of This 2GB Batch Version:
+
+
 2GB Batch Limit: Each batch limited to exactly 2GB total size
 
 Complete Uninstallation: Every app in the batch is uninstalled after the delay
